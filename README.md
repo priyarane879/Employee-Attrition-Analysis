@@ -17,18 +17,11 @@ Data Collection and Preparation: Gather and preprocess the dataset, handling mis
 
 Exploratory Data Analysis (EDA): Conduct EDA to visualize distributions, identify outliers, and uncover initial patterns in the data.
 
-Feature Selection: Utilize statistical tests and machine learning algorithms to identify the most significant features influencing attrition and performance.
-
-Model Development: Implement various predictive models, such as logistic regression, decision trees, and random forests, to predict employee attrition.
-
-Model Evaluation: Assess model performance using metrics like accuracy, precision, recall, and F1-score to ensure robustness and reliability.
 
 Expected Outcomes:
 
 Identification of Attrition Drivers: A comprehensive list of factors most strongly associated with employee turnover.
 
 Performance Enhancement Strategies: Recommendations for initiatives to improve employee performance based on identified key factors.
-
-Predictive Tools: Development of tools or models that can predict potential attrition, allowing for timely and targeted retention efforts.
 
 By achieving these objectives, the project aims to provide actionable insights that can lead to a more stable and high-performing workforce, ultimately contributing to the organization's overall success.
